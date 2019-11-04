@@ -132,6 +132,6 @@ else
                 echo "Kesalahan"
             fi            
     else
-        echo "Terimakasih sudah menggunakan Skull Project"
+        echo "Terima Kasih Kontol"
     fi
 fi
